@@ -1,0 +1,21 @@
+body{
+    font: roboto;
+    margin: 0;
+}
+header{
+    background-color: #1f2937;
+    display: flex;
+    justify-content: space-between;
+}
+h1{
+    color: #f9faf8;
+    margin-left: 80px;
+}
+.header-links{
+    font-size: 18px;
+    color: #e5e7eb;
+    display: flex;
+    justify-content:flex-start;
+    gap: 25px;
+    width: 420px;
+}
