@@ -10,6 +10,7 @@ header{
 h1{
     color: #f9faf8;
     margin-left: 80px;
+    font-size: 24px;
 }
 .header-links{
     font-size: 18px;
@@ -18,4 +19,38 @@ h1{
     justify-content:flex-start;
     gap: 25px;
     width: 420px;
+}
+.hero-section{
+    background-color: #1f2937;
+    display: flex;
+    gap: 100px;
+    flex: auto;
+}
+h2{
+    color: #f9faf8;
+    margin-left: 80px;
+    font-size: 48px;
+    font-weight: 900;
+}
+.hero-section p{
+    font-size: 18px;
+    color: #e5e7eb;
+    margin-left: 80px;
+    margin-top: -20px;
+}
+.hero{
+    width: 500px;
+}
+.hero-section img{
+    padding-top: 30px;
+    margin-left: 70px;
+}
+button{
+    background-color: #3882f6;
+    color: #f9faf8;
+    font-size: 18px;
+    width: 100px;
+    border-radius: 5px;
+    border: none;
+    margin-top: 5px;
 }
