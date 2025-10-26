@@ -54,3 +54,12 @@ button{
     border: none;
     margin-top: 5px;
 }
+footer{
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    color: #e5e7eb;
+    height: 50px;
+}
