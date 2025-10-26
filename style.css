@@ -63,3 +63,24 @@ footer{
     color: #e5e7eb;
     height: 50px;
 }
+.quote-section{
+    background-color: #e5e7eb;
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 300;
+    display: flex;
+    flex-direction: column;
+}
+.quote{
+    width: 800px;
+    margin-bottom: -36px;
+    align-self: center;
+}
+.quoter{
+    display: flex;
+    justify-content: flex-end;
+    font-weight: 400;
+    width: 800px;
+    font-size: 24px;
+    align-self: center;
+}
